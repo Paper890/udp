@@ -5,7 +5,7 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 
 ---
 ## Changelog: 
-see [commits](https://github.com/NiLphreakz/UDP-CUSTOM/commits/main)
+see [commits](https://github.com/Paper890/udp/commits/main)
 
 ---
 
@@ -18,7 +18,7 @@ see [commits](https://github.com/NiLphreakz/UDP-CUSTOM/commits/main)
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/NiLphreakz/UDP-CUSTOM/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/Paper890/udp/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
